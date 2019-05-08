@@ -1,4 +1,5 @@
 <?php
+session_start();
 // ARRAY
 $array = array("Augustus", "Hadrianus", "Constantijn I", "Theodosius I ");
 
