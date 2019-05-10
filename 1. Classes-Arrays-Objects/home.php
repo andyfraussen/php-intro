@@ -102,4 +102,7 @@ echo print_r($arrayAssociative, true );
 echo "<br>";
 echo print_r($objectClass, true );
 
+
+
+
 ?>
